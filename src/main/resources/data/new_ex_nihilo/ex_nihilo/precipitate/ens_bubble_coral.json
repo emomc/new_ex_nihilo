@@ -1,0 +1,12 @@
+﻿{
+  "type": "new_ex_nihilo:precipitate",
+  "fluid": {
+    "amount": 1000,
+    "id": "new_ex_nihilo:sea_water"
+  },
+  "input": "new_ex_nihilo:bubble_coral_larva",
+  "result": {
+    "count": 1,
+    "id": "minecraft:bubble_coral_block"
+  }
+}

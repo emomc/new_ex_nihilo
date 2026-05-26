@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "new_ex_nihilo:item/basalt_hammer"
+  }
+}

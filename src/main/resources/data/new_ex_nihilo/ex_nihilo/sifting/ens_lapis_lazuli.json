@@ -1,0 +1,15 @@
+﻿{
+  "type": "new_ex_nihilo:sifting",
+  "input": "minecraft:gravel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:lapis_lazuli"
+  },
+  "rolls": [
+    {
+      "chance": 0.05,
+      "mesh": "flint"
+    }
+  ],
+  "waterlogged": false
+}

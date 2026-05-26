@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "variant=acacia": {
+      "model": "new_ex_nihilo:block/infesting_acacia_leaves"
+    },
+    "variant=azalea": {
+      "model": "new_ex_nihilo:block/infesting_azalea_leaves"
+    },
+    "variant=birch": {
+      "model": "new_ex_nihilo:block/infesting_birch_leaves"
+    },
+    "variant=dark_oak": {
+      "model": "new_ex_nihilo:block/infesting_dark_oak_leaves"
+    },
+    "variant=jungle": {
+      "model": "new_ex_nihilo:block/infesting_jungle_leaves"
+    },
+    "variant=mangrove": {
+      "model": "new_ex_nihilo:block/infesting_mangrove_leaves"
+    },
+    "variant=oak": {
+      "model": "new_ex_nihilo:block/infesting_oak_leaves"
+    },
+    "variant=spruce": {
+      "model": "new_ex_nihilo:block/infesting_spruce_leaves"
+    }
+  }
+}

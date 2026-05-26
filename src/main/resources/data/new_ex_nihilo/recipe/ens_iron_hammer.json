@@ -1,0 +1,17 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "-": "#c:rods",
+    "x": "#c:ingots/iron"
+  },
+  "pattern": [
+    " x ",
+    " -x",
+    "-  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:iron_hammer"
+  }
+}

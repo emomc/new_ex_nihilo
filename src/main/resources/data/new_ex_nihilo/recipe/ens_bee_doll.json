@@ -1,0 +1,20 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": "new_ex_nihilo:beehive_frame",
+    "c": "#c:dyes/yellow",
+    "m": "new_ex_nihilo:porcelain_doll",
+    "s": "#c:dusts/glowstone",
+    "t": "#minecraft:small_flowers"
+  },
+  "pattern": [
+    "ctc",
+    "sms",
+    "cbc"
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:bee_doll"
+  }
+}

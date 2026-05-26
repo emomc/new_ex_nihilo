@@ -1,0 +1,10 @@
+﻿{
+  "type": "minecraft:smithing_transform",
+  "addition": "#c:ingots/netherite",
+  "base": "new_ex_nihilo:diamond_crook",
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:netherite_crook"
+  },
+  "template": "minecraft:netherite_upgrade_smithing_template"
+}

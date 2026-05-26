@@ -1,0 +1,18 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "new_ex_nihilo",
+  "key": {
+    "-": "minecraft:stone_slab",
+    "x": "#c:stones"
+  },
+  "pattern": [
+    "x x",
+    "x x",
+    "x-x"
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:stone_barrel"
+  }
+}

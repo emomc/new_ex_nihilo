@@ -1,0 +1,13 @@
+﻿{
+  "type": "new_ex_nihilo:harvest",
+  "input": "new_ex_nihilo:infested_leaves",
+  "results": [
+    {
+      "chance": 0.5,
+      "item": {
+        "count": 1,
+        "id": "minecraft:string"
+      }
+    }
+  ]
+}

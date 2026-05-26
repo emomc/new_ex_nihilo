@@ -1,0 +1,18 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "l": "minecraft:birch_slab",
+    "p": "minecraft:birch_planks",
+    "s": "#c:rods/wooden"
+  },
+  "pattern": [
+    "p p",
+    "plp",
+    "s s"
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:birch_sieve"
+  }
+}

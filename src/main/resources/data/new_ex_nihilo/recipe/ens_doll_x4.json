@@ -1,0 +1,17 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "e": "#c:gems/diamond",
+    "x": "new_ex_nihilo:porcelain_clay"
+  },
+  "pattern": [
+    "xex",
+    " x ",
+    "x x"
+  ],
+  "result": {
+    "count": 4,
+    "id": "new_ex_nihilo:porcelain_doll"
+  }
+}

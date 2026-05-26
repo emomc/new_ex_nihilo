@@ -1,0 +1,7 @@
+﻿{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "new_ex_nihilo:block/infesting_mangrove_leaves"
+  },
+  "render_type": "minecraft:cutout"
+}

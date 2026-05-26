@@ -1,0 +1,15 @@
+﻿{
+  "type": "new_ex_nihilo:sifting",
+  "input": "#minecraft:sand",
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:tube_coral_larva"
+  },
+  "rolls": [
+    {
+      "chance": 0.05,
+      "mesh": "iron"
+    }
+  ],
+  "waterlogged": true
+}

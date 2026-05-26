@@ -1,0 +1,23 @@
+﻿{
+  "type": "new_ex_nihilo:sifting",
+  "input": "minecraft:gravel",
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:copper_pieces"
+  },
+  "rolls": [
+    {
+      "chance": 0.05,
+      "mesh": "flint"
+    },
+    {
+      "chance": 0.075,
+      "mesh": "iron"
+    },
+    {
+      "chance": 0.1,
+      "mesh": "diamond"
+    }
+  ],
+  "waterlogged": false
+}

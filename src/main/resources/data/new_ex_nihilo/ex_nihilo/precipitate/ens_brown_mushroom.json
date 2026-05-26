@@ -1,0 +1,12 @@
+﻿{
+  "type": "new_ex_nihilo:precipitate",
+  "fluid": {
+    "amount": 1000,
+    "id": "new_ex_nihilo:witch_water"
+  },
+  "input": "new_ex_nihilo:mycelium_spores",
+  "result": {
+    "count": 1,
+    "id": "minecraft:brown_mushroom_block"
+  }
+}

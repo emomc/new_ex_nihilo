@@ -1,0 +1,15 @@
+﻿{
+  "type": "new_ex_nihilo:sifting",
+  "input": "minecraft:dirt",
+  "result": {
+    "count": 1,
+    "id": "minecraft:wheat_seeds"
+  },
+  "rolls": [
+    {
+      "chance": 0.7,
+      "mesh": "string"
+    }
+  ],
+  "waterlogged": false
+}

@@ -1,0 +1,19 @@
+﻿{
+  "type": "new_ex_nihilo:sifting",
+  "input": "new_ex_nihilo:crushed_netherrack",
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:netherrack_pebble"
+  },
+  "rolls": [
+    {
+      "chance": 0.5,
+      "mesh": "string"
+    },
+    {
+      "chance": 0.1,
+      "mesh": "string"
+    }
+  ],
+  "waterlogged": false
+}

@@ -1,0 +1,20 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": "#c:crops/nether_wart",
+    "c": "#c:dyes/black",
+    "m": "new_ex_nihilo:porcelain_doll",
+    "s": "#c:dusts/glowstone",
+    "t": "#c:dusts/redstone"
+  },
+  "pattern": [
+    "ctc",
+    "sms",
+    "cbc"
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:enderman_doll"
+  }
+}

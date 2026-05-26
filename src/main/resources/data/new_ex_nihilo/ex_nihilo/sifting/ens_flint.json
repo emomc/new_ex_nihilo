@@ -1,0 +1,19 @@
+﻿{
+  "type": "new_ex_nihilo:sifting",
+  "input": "minecraft:gravel",
+  "result": {
+    "count": 1,
+    "id": "minecraft:flint"
+  },
+  "rolls": [
+    {
+      "chance": 0.25,
+      "mesh": "string"
+    },
+    {
+      "chance": 0.25,
+      "mesh": "flint"
+    }
+  ],
+  "waterlogged": false
+}

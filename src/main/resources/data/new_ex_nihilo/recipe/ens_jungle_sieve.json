@@ -1,0 +1,18 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "l": "minecraft:jungle_slab",
+    "p": "minecraft:jungle_planks",
+    "s": "#c:rods/wooden"
+  },
+  "pattern": [
+    "p p",
+    "plp",
+    "s s"
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:jungle_sieve"
+  }
+}

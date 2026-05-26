@@ -1,0 +1,17 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "new_ex_nihilo",
+  "key": {
+    "x": "#c:gems/diamond"
+  },
+  "pattern": [
+    "xx",
+    " x",
+    " x"
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:diamond_crook"
+  }
+}

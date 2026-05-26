@@ -1,0 +1,9 @@
+﻿{
+  "type": "new_ex_nihilo:melting",
+  "crucibleType": "fired",
+  "fluidResult": {
+    "amount": 50,
+    "id": "minecraft:lava"
+  },
+  "input": "new_ex_nihilo:dust"
+}

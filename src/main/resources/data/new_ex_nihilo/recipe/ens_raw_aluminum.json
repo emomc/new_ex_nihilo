@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "new_ex_nihilo",
+  "key": {
+    "x": "new_ex_nihilo:aluminum_pieces"
+  },
+  "pattern": [
+    "xx",
+    "xx"
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:raw_aluminum"
+  }
+}

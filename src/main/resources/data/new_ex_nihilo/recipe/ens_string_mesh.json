@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "i": "#c:strings"
+  },
+  "pattern": [
+    "iii",
+    "iii",
+    "iii"
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:string_mesh"
+  }
+}

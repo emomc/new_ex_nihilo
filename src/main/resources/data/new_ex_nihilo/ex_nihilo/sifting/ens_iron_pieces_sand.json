@@ -1,0 +1,15 @@
+﻿{
+  "type": "new_ex_nihilo:sifting",
+  "input": "minecraft:sand",
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:iron_pieces"
+  },
+  "rolls": [
+    {
+      "chance": 0.5,
+      "mesh": "diamond"
+    }
+  ],
+  "waterlogged": false
+}

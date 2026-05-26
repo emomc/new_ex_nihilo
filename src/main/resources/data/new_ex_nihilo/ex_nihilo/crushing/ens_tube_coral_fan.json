@@ -1,0 +1,13 @@
+﻿{
+  "type": "new_ex_nihilo:crushing",
+  "input": "minecraft:tube_coral",
+  "results": [
+    {
+      "chance": 1.0,
+      "item": {
+        "count": 1,
+        "id": "minecraft:tube_coral_fan"
+      }
+    }
+  ]
+}

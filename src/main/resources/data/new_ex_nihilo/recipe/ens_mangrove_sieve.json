@@ -1,0 +1,18 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "l": "minecraft:mangrove_slab",
+    "p": "minecraft:mangrove_planks",
+    "s": "#c:rods/wooden"
+  },
+  "pattern": [
+    "p p",
+    "plp",
+    "s s"
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:mangrove_sieve"
+  }
+}

@@ -1,0 +1,44 @@
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+description='''
+Empty NeoForge mod development framework.
+'''
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="folding_creative_tabs_support"
+    type="required"
+    versionRange="[1.0.0,)"
+    ordering="AFTER"
+    side="CLIENT"
+
+[[dependencies.${mod_id}]]
+    modId="jei"
+    type="optional"
+    versionRange="[29.6.2.31,)"
+    ordering="AFTER"
+    side="CLIENT"
+
+[[dependencies.${mod_id}]]
+    modId="jade"
+    type="optional"
+    versionRange="[26.1.1,)"
+    ordering="AFTER"
+    side="BOTH"

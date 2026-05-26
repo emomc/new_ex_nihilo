@@ -1,0 +1,27 @@
+﻿{
+  "type": "new_ex_nihilo:sifting",
+  "input": "new_ex_nihilo:crushed_end_stone",
+  "result": {
+    "count": 1,
+    "id": "minecraft:ender_pearl"
+  },
+  "rolls": [
+    {
+      "chance": 0.005,
+      "mesh": "iron"
+    },
+    {
+      "chance": 0.01,
+      "mesh": "diamond"
+    },
+    {
+      "chance": 0.015,
+      "mesh": "emerald"
+    },
+    {
+      "chance": 0.02,
+      "mesh": "netherite"
+    }
+  ],
+  "waterlogged": false
+}

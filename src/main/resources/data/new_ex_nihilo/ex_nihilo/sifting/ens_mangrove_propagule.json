@@ -1,0 +1,15 @@
+﻿{
+  "type": "new_ex_nihilo:sifting",
+  "input": "minecraft:mud",
+  "result": {
+    "count": 1,
+    "id": "minecraft:mangrove_propagule"
+  },
+  "rolls": [
+    {
+      "chance": 0.03,
+      "mesh": "string"
+    }
+  ],
+  "waterlogged": true
+}

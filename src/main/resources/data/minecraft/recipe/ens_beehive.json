@@ -1,0 +1,17 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "f": "new_ex_nihilo:beehive_frame",
+    "x": "#minecraft:planks"
+  },
+  "pattern": [
+    "xxx",
+    "fff",
+    "xxx"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:beehive"
+  }
+}

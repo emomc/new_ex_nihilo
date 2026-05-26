@@ -1,0 +1,19 @@
+﻿{
+  "type": "new_ex_nihilo:sifting",
+  "input": "new_ex_nihilo:crushed_end_stone",
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:end_stone_pebble"
+  },
+  "rolls": [
+    {
+      "chance": 0.5,
+      "mesh": "string"
+    },
+    {
+      "chance": 0.1,
+      "mesh": "string"
+    }
+  ],
+  "waterlogged": false
+}

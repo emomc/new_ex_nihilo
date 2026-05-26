@@ -1,0 +1,12 @@
+﻿{
+  "type": "new_ex_nihilo:precipitate",
+  "fluid": {
+    "amount": 1000,
+    "id": "minecraft:lava"
+  },
+  "input": "#c:dusts/redstone",
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherrack"
+  }
+}

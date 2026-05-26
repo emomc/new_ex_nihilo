@@ -1,0 +1,11 @@
+{
+  "type": "new_ex_nihilo:use_hammer",
+  "conditions": [
+    {
+      "condition": "minecraft:match_tool",
+      "predicate": {
+        "items": "#new_ex_nihilo:tools/hammers"
+      }
+    }
+  ]
+}

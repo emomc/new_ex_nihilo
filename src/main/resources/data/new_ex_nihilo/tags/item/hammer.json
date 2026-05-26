@@ -1,0 +1,24 @@
+﻿{
+  "values": [
+    "new_ex_nihilo:andesite_hammer",
+    "new_ex_nihilo:basalt_hammer",
+    "new_ex_nihilo:blackstone_hammer",
+    "new_ex_nihilo:bone_hammer",
+    "new_ex_nihilo:calcite_hammer",
+    "new_ex_nihilo:copper_hammer",
+    "new_ex_nihilo:deepslate_hammer",
+    "new_ex_nihilo:diamond_hammer",
+    "new_ex_nihilo:diorite_hammer",
+    "new_ex_nihilo:dripstone_hammer",
+    "new_ex_nihilo:golden_hammer",
+    "new_ex_nihilo:granite_hammer",
+    "new_ex_nihilo:iron_hammer",
+    "new_ex_nihilo:nether_brick_hammer",
+    "new_ex_nihilo:netherite_hammer",
+    "new_ex_nihilo:red_nether_brick_hammer",
+    "new_ex_nihilo:stone_hammer",
+    "new_ex_nihilo:terracotta_hammer",
+    "new_ex_nihilo:tuff_hammer",
+    "#new_ex_nihilo:wood_hammer"
+  ]
+}

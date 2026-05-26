@@ -1,0 +1,18 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "new_ex_nihilo",
+  "key": {
+    "-": "minecraft:dark_oak_slab",
+    "x": "minecraft:dark_oak_planks"
+  },
+  "pattern": [
+    "x x",
+    "x x",
+    "x-x"
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:dark_oak_barrel"
+  }
+}

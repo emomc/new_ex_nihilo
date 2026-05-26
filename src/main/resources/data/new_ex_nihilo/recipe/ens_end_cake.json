@@ -1,0 +1,18 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": "minecraft:end_crystal",
+    "e": "minecraft:ender_eye",
+    "k": "minecraft:cake"
+  },
+  "pattern": [
+    "ece",
+    "eke",
+    "ece"
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:end_cake"
+  }
+}

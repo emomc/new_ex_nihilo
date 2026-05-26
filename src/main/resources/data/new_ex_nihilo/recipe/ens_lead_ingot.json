@@ -1,0 +1,11 @@
+﻿{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 0.7,
+  "ingredient": "new_ex_nihilo:raw_lead",
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:lead_ingot"
+  }
+}

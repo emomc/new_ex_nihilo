@@ -1,0 +1,19 @@
+﻿{
+  "type": "new_ex_nihilo:sifting",
+  "input": "minecraft:dirt",
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:granite_pebble"
+  },
+  "rolls": [
+    {
+      "chance": 0.5,
+      "mesh": "string"
+    },
+    {
+      "chance": 0.1,
+      "mesh": "string"
+    }
+  ],
+  "waterlogged": false
+}

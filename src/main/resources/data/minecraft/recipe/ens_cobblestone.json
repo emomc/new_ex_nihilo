@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "new_ex_nihilo",
+  "key": {
+    "x": "new_ex_nihilo:stone_pebble"
+  },
+  "pattern": [
+    "xx",
+    "xx"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:cobblestone"
+  }
+}

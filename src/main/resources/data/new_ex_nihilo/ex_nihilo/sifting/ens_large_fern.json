@@ -1,0 +1,15 @@
+﻿{
+  "type": "new_ex_nihilo:sifting",
+  "input": "minecraft:dirt",
+  "result": {
+    "count": 1,
+    "id": "minecraft:large_fern"
+  },
+  "rolls": [
+    {
+      "chance": 0.05,
+      "mesh": "string"
+    }
+  ],
+  "waterlogged": false
+}

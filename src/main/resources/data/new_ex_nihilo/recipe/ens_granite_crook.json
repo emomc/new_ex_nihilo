@@ -1,0 +1,17 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "group": "new_ex_nihilo",
+  "key": {
+    "x": "new_ex_nihilo:granite_pebble"
+  },
+  "pattern": [
+    "xx",
+    " x",
+    " x"
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:granite_crook"
+  }
+}

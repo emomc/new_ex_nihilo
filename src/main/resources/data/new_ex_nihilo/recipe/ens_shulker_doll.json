@@ -1,0 +1,20 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": "#c:ender_pearls",
+    "c": "#c:dyes/purple",
+    "m": "new_ex_nihilo:porcelain_doll",
+    "s": "#c:dusts/glowstone",
+    "t": "#c:end_stones"
+  },
+  "pattern": [
+    "ctc",
+    "sms",
+    "cbc"
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:shulker_doll"
+  }
+}

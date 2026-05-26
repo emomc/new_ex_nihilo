@@ -1,0 +1,17 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "-": "#c:rods",
+    "x": "minecraft:red_nether_bricks"
+  },
+  "pattern": [
+    " x ",
+    " -x",
+    "-  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:red_nether_brick_hammer"
+  }
+}

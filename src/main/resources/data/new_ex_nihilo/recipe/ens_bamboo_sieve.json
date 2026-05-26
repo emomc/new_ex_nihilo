@@ -1,0 +1,18 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "l": "minecraft:bamboo_slab",
+    "p": "minecraft:bamboo_planks",
+    "s": "#c:rods/wooden"
+  },
+  "pattern": [
+    "p p",
+    "plp",
+    "s s"
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:bamboo_sieve"
+  }
+}

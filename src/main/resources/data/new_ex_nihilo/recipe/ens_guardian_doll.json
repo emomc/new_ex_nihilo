@@ -1,0 +1,20 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "b": "#minecraft:fishes",
+    "c": "#c:gems/prismarine",
+    "m": "new_ex_nihilo:porcelain_doll",
+    "s": "#c:dusts/glowstone",
+    "t": "#c:dusts/redstone"
+  },
+  "pattern": [
+    "ctc",
+    "sms",
+    "cbc"
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:guardian_doll"
+  }
+}

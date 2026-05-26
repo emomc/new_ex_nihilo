@@ -1,0 +1,15 @@
+﻿{
+  "type": "new_ex_nihilo:sifting",
+  "input": "minecraft:soul_sand",
+  "result": {
+    "count": 1,
+    "id": "minecraft:ghast_tear"
+  },
+  "rolls": [
+    {
+      "chance": 0.02,
+      "mesh": "diamond"
+    }
+  ],
+  "waterlogged": false
+}

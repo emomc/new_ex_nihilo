@@ -1,0 +1,13 @@
+﻿{
+  "type": "new_ex_nihilo:crushing",
+  "input": "minecraft:gravel",
+  "results": [
+    {
+      "chance": 1.0,
+      "item": {
+        "count": 1,
+        "id": "minecraft:sand"
+      }
+    }
+  ]
+}

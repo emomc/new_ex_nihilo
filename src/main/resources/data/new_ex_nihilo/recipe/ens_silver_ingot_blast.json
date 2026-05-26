@@ -1,0 +1,11 @@
+﻿{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 0.7,
+  "ingredient": "new_ex_nihilo:raw_silver",
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:silver_ingot"
+  }
+}

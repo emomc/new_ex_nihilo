@@ -1,0 +1,12 @@
+﻿{
+  "type": "new_ex_nihilo:transition",
+  "catalyst": "minecraft:mycelium",
+  "fluidInTank": {
+    "amount": 1000,
+    "id": "minecraft:water"
+  },
+  "result": {
+    "amount": 1000,
+    "id": "new_ex_nihilo:witch_water"
+  }
+}

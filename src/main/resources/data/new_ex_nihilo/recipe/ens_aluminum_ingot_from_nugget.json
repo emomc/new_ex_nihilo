@@ -1,0 +1,17 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "new_ex_nihilo",
+  "key": {
+    "x": "new_ex_nihilo:aluminum_nugget"
+  },
+  "pattern": [
+    "xxx",
+    "xxx",
+    "xxx"
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:aluminum_ingot"
+  }
+}

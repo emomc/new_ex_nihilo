@@ -1,0 +1,13 @@
+﻿{
+  "type": "new_ex_nihilo:harvest",
+  "input": "#minecraft:leaves",
+  "results": [
+    {
+      "chance": 0.1,
+      "item": {
+        "count": 1,
+        "id": "new_ex_nihilo:silkworm"
+      }
+    }
+  ]
+}

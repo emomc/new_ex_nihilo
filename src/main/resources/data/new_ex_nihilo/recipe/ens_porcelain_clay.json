@@ -1,0 +1,12 @@
+﻿{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "#c:clay",
+    "minecraft:bone_meal"
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:porcelain_clay"
+  }
+}

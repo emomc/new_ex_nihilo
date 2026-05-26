@@ -1,0 +1,17 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "-": "#c:rods",
+    "x": "minecraft:cherry_planks"
+  },
+  "pattern": [
+    " x ",
+    " -x",
+    "-  "
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:cherry_hammer"
+  }
+}

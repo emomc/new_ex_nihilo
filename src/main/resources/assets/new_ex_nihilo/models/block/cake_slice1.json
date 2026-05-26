@@ -1,0 +1,45 @@
+{
+  "textures": {
+    "particle": "new_ex_nihilo:block/end_cake_side",
+    "bottom": "new_ex_nihilo:block/end_cake_bottom",
+    "top": "new_ex_nihilo:block/end_cake_top",
+    "side": "new_ex_nihilo:block/end_cake_side",
+    "inside": "new_ex_nihilo:block/end_cake_inner"
+  },
+  "elements": [
+    {
+      "from": [
+        3,
+        0,
+        1
+      ],
+      "to": [
+        15,
+        8,
+        15
+      ],
+      "faces": {
+        "down": {
+          "texture": "#bottom",
+          "cullface": "down"
+        },
+        "up": {
+          "texture": "#top"
+        },
+        "north": {
+          "texture": "#side"
+        },
+        "south": {
+          "texture": "#side"
+        },
+        "west": {
+          "texture": "#inside"
+        },
+        "east": {
+          "texture": "#side"
+        }
+      }
+    }
+  ],
+  "render_type": "minecraft:cutout"
+}

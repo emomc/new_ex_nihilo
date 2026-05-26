@@ -1,0 +1,19 @@
+﻿{
+  "type": "new_ex_nihilo:sifting",
+  "input": "minecraft:coarse_dirt",
+  "result": {
+    "count": 1,
+    "id": "minecraft:dirt"
+  },
+  "rolls": [
+    {
+      "chance": 1.0,
+      "mesh": "string"
+    },
+    {
+      "chance": 0.4,
+      "mesh": "string"
+    }
+  ],
+  "waterlogged": false
+}

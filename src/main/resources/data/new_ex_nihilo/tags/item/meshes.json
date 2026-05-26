@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "new_ex_nihilo:string_mesh",
+    "new_ex_nihilo:flint_mesh",
+    "new_ex_nihilo:iron_mesh",
+    "new_ex_nihilo:diamond_mesh",
+    "new_ex_nihilo:emerald_mesh",
+    "new_ex_nihilo:netherite_mesh"
+  ]
+}

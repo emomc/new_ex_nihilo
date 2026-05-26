@@ -1,0 +1,16 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "c": "new_ex_nihilo:porcelain_clay"
+  },
+  "pattern": [
+    "c c",
+    "c c",
+    "ccc"
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:unfired_crucible"
+  }
+}

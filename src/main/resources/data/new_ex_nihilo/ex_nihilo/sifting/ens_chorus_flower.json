@@ -1,0 +1,23 @@
+﻿{
+  "type": "new_ex_nihilo:sifting",
+  "input": "new_ex_nihilo:crushed_end_stone",
+  "result": {
+    "count": 1,
+    "id": "minecraft:chorus_flower"
+  },
+  "rolls": [
+    {
+      "chance": 0.01,
+      "mesh": "diamond"
+    },
+    {
+      "chance": 0.02,
+      "mesh": "emerald"
+    },
+    {
+      "chance": 0.05,
+      "mesh": "netherite"
+    }
+  ],
+  "waterlogged": false
+}

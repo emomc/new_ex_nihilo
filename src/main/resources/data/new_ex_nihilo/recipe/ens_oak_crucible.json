@@ -1,0 +1,19 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "new_ex_nihilo",
+  "key": {
+    "c": "minecraft:oak_log",
+    "l": "minecraft:oak_slab",
+    "s": "#c:rods/wooden"
+  },
+  "pattern": [
+    "c c",
+    "clc",
+    "s s"
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:oak_crucible"
+  }
+}

@@ -1,0 +1,17 @@
+﻿{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "i": "#c:gems/diamond",
+    "m": "new_ex_nihilo:iron_mesh"
+  },
+  "pattern": [
+    "i i",
+    "imi",
+    "i i"
+  ],
+  "result": {
+    "count": 1,
+    "id": "new_ex_nihilo:diamond_mesh"
+  }
+}
